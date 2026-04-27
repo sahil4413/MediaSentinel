@@ -97,14 +97,6 @@ The application uses realistic mock data for:
 - Analytics metrics
 - Random timestamps and confidence scores
 
-## 🏆 Google Solution Challenge
-
-This project demonstrates:
-- Innovative digital asset protection
-- Modern web technologies
-- Scalable architecture
-- User-centric design
-- Real-world problem solving
 
 ## 📝 License
 
